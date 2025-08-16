@@ -1,0 +1,5 @@
+portfolio/
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── myphoto.png   (or any name, but must match in <img src="myphoto.png">)
